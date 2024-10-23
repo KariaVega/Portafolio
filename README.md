@@ -1,8 +1,6 @@
 # Proyecto: Urban Scooter
 
-![image](https://github.com/user-attachments/assets/d91160b2-8dfe-41a7-a86f-a368424e95e7)  ![image](https://github.com/user-attachments/assets/d2b088b6-dac2-4bfd-b5e1-60a29ad9eaaa)
-
-
+![image](https://github.com/user-attachments/assets/d91160b2-8dfe-41a7-a86f-a368424e95e7)  
 ### :page_facing_up: *Documentación utilizada:* 
 - Requisitos para aplicativo Web de UrbanScooter:  [Link de requisitos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/Requisitos_de_aplicaciones_web.pdf)
 - Requisitos para aplicativo Móvil de UrbanScooter: [Link de Requisitos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-final-project/Requisitos_para_la_aplicacin_mvil.pdf)
@@ -74,3 +72,7 @@
 #### :file_folder: Documentación para el Backend (*API*):
   - Lista de Comprobación: - [Link de Lista de Comprobación](https://docs.google.com/spreadsheets/d/1hvfwoMpQvsjq_H7bXEM3jE1uttxDR5SV/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true)
   - Reporte y seguimiento de errores: - [Link de Reporte de Errores](https://arqkarvga.atlassian.net/issues/?jql=project+%3D+%22KVAPFS9G1%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZGU1N2M4MWY4MWQ0NGNjOWFjNWQ5Yzk2NWYxM2NlZTYiLCJwIjoiaiJ9)
+
+   <div id="header" align="center"> 
+       
+ ![image](https://github.com/user-attachments/assets/de266974-4ad8-4c1e-8772-5b14881cd72d)
